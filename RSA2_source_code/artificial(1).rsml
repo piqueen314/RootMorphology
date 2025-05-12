@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rsml>
+   <metadata>
+      <version>1</version>
+      <unit>cm</unit>
+      <resolution>37.9259259259259</resolution>
+      <last-modified>19-Mar-2015</last-modified>
+      <software>Root System Analyzer</software>
+      <image>
+         <label>C:\Users\Daniel\Dropbox\Root Model\Root Tracking 2013\root tracking\artificial(1)</label>
+      </image>
+      <property-definitions>
+         <property-definition>
+            <label>length</label>
+            <type>float</type>
+            <unit>pixel</unit>
+         </property-definition>
+         <property-definition>
+            <label>insertion_DASH_angle</label>
+            <type>float</type>
+            <unit>degree</unit>
+         </property-definition>
+         <property-definition>
+            <label>parent_DASH_node</label>
+            <type>float</type>
+            <unit>-</unit>
+         </property-definition>
+      </property-definitions>
+      <time-sequence>
+         <label>artificial</label>
+         <index>1/1</index>
+         <unified>true</unified>
+      </time-sequence>
+   </metadata>
+   <scene>
+      <plant>
+         <root ID="1">
+            <geometry>
+               <polyline>
+                  <point x="458" y="8"/>
+                  <point x="465.4" y="15"/>
+                  <point x="465.4" y="15"/>
+                  <point x="465" y="20"/>
+                  <point x="464.813412674217" y="24"/>
+                  <point x="464" y="29"/>
+                  <point x="464" y="33"/>
+                  <point x="463.813412674217" y="37"/>
+                  <point x="463" y="41"/>
+                  <point x="463" y="45"/>
+                  <point x="462" y="50"/>
+                  <point x="462" y="54"/>
+                  <point x="462" y="58"/>
+                  <point x="462" y="62"/>
+                  <point x="462" y="66"/>
+                  <point x="462" y="70"/>
+                  <point x="461.579741612253" y="75"/>
+                  <point x="462.186587325782" y="79"/>
+                  <point x="462.606845713529" y="83"/>
+                  <point x="462" y="87"/>
+                  <point x="462" y="91"/>
+                  <point x="461.39315428647" y="96"/>
+                  <point x="459.793433039312" y="100"/>
+                  <point x="456.666666666667" y="104.666666666667"/>
+                  <point x="456.666666666667" y="104.666666666667"/>
+                  <point x="459.813412674217" y="109"/>
+                  <point x="461" y="113"/>
+                  <point x="461" y="117"/>
+                  <point x="461" y="122"/>
+                  <point x="461" y="126"/>
+                  <point x="460.813412674217" y="130"/>
+                  <point x="460" y="134"/>
+                  <point x="459.813412674217" y="138"/>
+                  <point x="459" y="142"/>
+                  <point x="459" y="146"/>
+                  <point x="460" y="150"/>
+                  <point x="461.186587325783" y="155"/>
+                  <point x="462" y="159"/>
+                  <point x="462" y="163"/>
+                  <point x="462.39315428647" y="167"/>
+                  <point x="463" y="171"/>
+                  <point x="463" y="175"/>
+                  <point x="463.813412674217" y="179"/>
+                  <point x="464.39315428647" y="183"/>
+                  <point x="466" y="188"/>
+                  <point x="467.793433039312" y="192"/>
+                  <point x="469.793433039312" y="196"/>
+                  <point x="471.793433039312" y="200"/>
+                  <point x="473.186587325783" y="204"/>
+                  <point x="475" y="208"/>
+                  <point x="477.60684571353" y="212"/>
+                  <point x="480.186587325782" y="216"/>
+                  <point x="484.186587325782" y="221"/>
+                  <point x="488" y="225"/>
+                  <point x="492" y="229"/>
+                  <point x="496" y="233"/>
+                  <point x="500" y="236"/>
+                  <point x="500" y="236"/>
+                  <point x="504" y="240"/>
+                  <point x="508.813412674217" y="245"/>
+                  <point x="512" y="249"/>
+                  <point x="516" y="253"/>
+                  <point x="520" y="256.39315428647"/>
+                  <point x="525" y="261"/>
+                  <point x="529" y="264.186587325783"/>
+                  <point x="533" y="267.186587325782"/>
+                  <point x="538" y="271.186587325782"/>
+                  <point x="542" y="275"/>
+                  <point x="546" y="277.793433039312"/>
+                  <point x="551" y="282"/>
+                  <point x="555" y="286"/>
+                  <point x="559" y="290"/>
+                  <point x="562.186587325783" y="294"/>
+                  <point x="564.626825348435" y="299"/>
+                  <point x="563" y="303.75"/>
+                  <point x="563" y="303.75"/>
+                  <point x="566.206566960688" y="308"/>
+                  <point x="567" y="312"/>
+                  <point x="567" y="316"/>
+                  <point x="567" y="321"/>
+                  <point x="567" y="325"/>
+                  <point x="567" y="329"/>
+                  <point x="567" y="333"/>
+                  <point x="566.186587325782" y="337"/>
+                  <point x="565.813412674217" y="341"/>
+                  <point x="564.60684571353" y="345"/>
+                  <point x="563" y="350"/>
+                  <point x="562" y="354"/>
+                  <point x="561.39315428647" y="358"/>
+                  <point x="560" y="362"/>
+                  <point x="558.813412674217" y="366"/>
+                  <point x="558" y="370"/>
+                  <point x="556.813412674217" y="375"/>
+                  <point x="555.60684571353" y="379"/>
+                  <point x="554.206566960688" y="383"/>
+                  <point x="552.206566960688" y="387"/>
+                  <point x="550.606845713529" y="391"/>
+                  <point x="548.39315428647" y="395"/>
+                  <point x="546.60684571353" y="399"/>
+                  <point x="545.206566960688" y="404"/>
+                  <point x="543.39315428647" y="408"/>
+                  <point x="542.60684571353" y="412"/>
+                  <point x="541.186587325783" y="416"/>
+                  <point x="540.39315428647" y="420"/>
+                  <point x="539.39315428647" y="424"/>
+                  <point x="538.186587325782" y="428"/>
+                  <point x="536.39315428647" y="433"/>
+                  <point x="534.793433039312" y="437"/>
+                  <point x="534" y="441"/>
+                  <point x="534.333333333333" y="445.666666666667"/>
+                  <point x="534.333333333333" y="445.666666666667"/>
+                  <point x="531.206566960688" y="450"/>
+                  <point x="528.793433039312" y="454"/>
+                  <point x="526.579741612253" y="459"/>
+                  <point x="524.793433039312" y="463"/>
+                  <point x="522.793433039312" y="467"/>
+                  <point x="520.793433039312" y="471"/>
+                  <point x="519.206566960688" y="475"/>
+                  <point x="516.39315428647" y="480"/>
+                  <point x="514.60684571353" y="484"/>
+                  <point x="512.793433039312" y="488"/>
+                  <point x="510.186587325782" y="492"/>
+                  <point x="507.793433039312" y="496"/>
+                  <point x="504" y="501"/>
+                  <point x="500.813412674217" y="505"/>
+                  <point x="497.813412674217" y="509"/>
+                  <point x="494.813412674217" y="513"/>
+                  <point x="492" y="517"/>
+                  <point x="488.813412674217" y="522"/>
+                  <point x="485.60684571353" y="526"/>
+                  <point x="481.666666666667" y="530.333333333333"/>
+                  <point x="481.666666666667" y="530.333333333333"/>
+                  <point x="482" y="535"/>
+                  <point x="479.39315428647" y="539"/>
+                  <point x="476.60684571353" y="544"/>
+                  <point x="474.39315428647" y="548"/>
+                  <point x="472.793433039312" y="552"/>
+                  <point x="470.793433039312" y="556"/>
+                  <point x="468.793433039312" y="560"/>
+                  <point x="466.793433039312" y="564"/>
+                  <point x="464.793433039312" y="569"/>
+                  <point x="462.186587325783" y="573"/>
+                  <point x="460.39315428647" y="577"/>
+                  <point x="458.793433039312" y="581"/>
+                  <point x="456.793433039312" y="585"/>
+                  <point x="455.393154286471" y="589"/>
+                  <point x="454.813412674217" y="594"/>
+                  <point x="454" y="598"/>
+                  <point x="454" y="602"/>
+                  <point x="454" y="606"/>
+                  <point x="454.793433039312" y="610"/>
+                  <point x="456.793433039312" y="614"/>
+                  <point x="461" y="619"/>
+                  <point x="465" y="622.39315428647"/>
+                  <point x="469" y="625.813412674217"/>
+                  <point x="473.666666666667" y="628.333333333333"/>
+                  <point x="473.666666666667" y="628.333333333333"/>
+                  <point x="478" y="633"/>
+                  <point x="482" y="637"/>
+                  <point x="486" y="641"/>
+                  <point x="491" y="645.813412674217"/>
+                  <point x="495" y="648.60684571353"/>
+                  <point x="499" y="651.39315428647"/>
+                  <point x="503" y="654.186587325783"/>
+                  <point x="507" y="657.186587325782"/>
+                  <point x="511" y="660.206566960688"/>
+                  <point x="516" y="663"/>
+                  <point x="520" y="665.206566960688"/>
+                  <point x="524" y="667.206566960688"/>
+                  <point x="528" y="668.793433039312"/>
+                  <point x="532" y="670.60684571353"/>
+                  <point x="536" y="672"/>
+                  <point x="541" y="673.39315428647"/>
+                  <point x="545" y="675"/>
+                  <point x="549" y="676.39315428647"/>
+                  <point x="553" y="677.39315428647"/>
+                  <point x="557" y="678"/>
+                  <point x="561" y="678.813412674217"/>
+                  <point x="566" y="679.60684571353"/>
+                  <point x="570" y="680.813412674217"/>
+                  <point x="574" y="682.206566960688"/>
+                  <point x="578" y="683"/>
+                  <point x="582" y="683"/>
+                  <point x="586" y="684"/>
+                  <point x="591" y="685.39315428647"/>
+                  <point x="595" y="686.39315428647"/>
+                  <point x="599" y="687.186587325782"/>
+                  <point x="603" y="688"/>
+               </polyline>
+            </geometry>
+            <properties>
+               <length value="852.721387660476"/>
+               <insertion-angle value=""/>
+            </properties>
+            <root ID="2">
+               <geometry>
+                  <polyline>
+                     <point x="456.666666666667" y="104.666666666667"/>
+                     <point x="452" y="105"/>
+                     <point x="448" y="105"/>
+                     <point x="444" y="106.206566960688"/>
+                     <point x="439" y="109"/>
+                     <point x="435" y="112.186587325782"/>
+                     <point x="431" y="116"/>
+                     <point x="427" y="119.39315428647"/>
+                     <point x="423" y="122.186587325782"/>
+                     <point x="419" y="125.39315428647"/>
+                     <point x="415" y="128.186587325782"/>
+                     <point x="411" y="131.39315428647"/>
+                     <point x="406" y="135.186587325782"/>
+                     <point x="402" y="138.186587325782"/>
+                     <point x="398" y="141.206566960688"/>
+                     <point x="394" y="143.60684571353"/>
+                     <point x="390" y="145.793433039312"/>
+                     <point x="386" y="147.793433039312"/>
+                     <point x="382" y="150.206566960688"/>
+                     <point x="378" y="152.420258387747"/>
+                     <point x="373" y="154.60684571353"/>
+                     <point x="369" y="155.60684571353"/>
+                     <point x="365" y="156.60684571353"/>
+                     <point x="361" y="157.60684571353"/>
+                     <point x="357" y="158.813412674217"/>
+                     <point x="353" y="160"/>
+                     <point x="349" y="161.186587325782"/>
+                     <point x="345" y="162.39315428647"/>
+                     <point x="340" y="163"/>
+                     <point x="336" y="163"/>
+                     <point x="332" y="163.60684571353"/>
+                     <point x="328" y="164"/>
+                     <point x="324" y="164"/>
+                     <point x="324" y="164"/>
+                     <point x="320" y="167"/>
+                     <point x="316" y="169.420258387747"/>
+                     <point x="311" y="171.39315428647"/>
+                     <point x="307" y="172.60684571353"/>
+                     <point x="303" y="173.60684571353"/>
+                     <point x="299" y="174.60684571353"/>
+                     <point x="294" y="175.60684571353"/>
+                     <point x="290" y="177"/>
+                     <point x="286" y="178.60684571353"/>
+                     <point x="282" y="180.206566960688"/>
+                     <point x="277" y="182.39315428647"/>
+                     <point x="273" y="183.60684571353"/>
+                     <point x="269" y="185.206566960688"/>
+                     <point x="265" y="186.39315428647"/>
+                     <point x="261" y="188"/>
+                     <point x="256" y="190.206566960688"/>
+                     <point x="252" y="192.206566960688"/>
+                     <point x="248" y="193.60684571353"/>
+                     <point x="244" y="194.39315428647"/>
+                     <point x="239" y="196.793433039312"/>
+                     <point x="235" y="199.39315428647"/>
+                     <point x="230.666666666667" y="202.333333333333"/>
+                     <point x="230.666666666667" y="202.333333333333"/>
+                     <point x="226" y="202"/>
+                     <point x="222" y="202"/>
+                     <point x="217" y="202"/>
+                     <point x="213" y="202"/>
+                     <point x="209" y="202"/>
+                     <point x="205" y="202"/>
+                     <point x="200" y="202"/>
+                     <point x="196" y="202"/>
+                     <point x="192" y="202"/>
+                     <point x="188" y="202"/>
+                     <point x="184" y="202"/>
+                     <point x="179" y="202"/>
+                     <point x="175" y="202"/>
+                     <point x="171" y="202"/>
+                     <point x="167" y="202"/>
+                     <point x="162" y="202"/>
+                     <point x="158" y="202"/>
+                     <point x="154" y="202"/>
+                     <point x="150" y="202"/>
+                     <point x="146" y="202"/>
+                     <point x="141" y="202"/>
+                     <point x="137" y="202"/>
+                     <point x="133" y="202"/>
+                     <point x="129" y="202"/>
+                     <point x="124" y="202"/>
+                     <point x="120" y="202"/>
+                     <point x="116" y="202"/>
+                  </polyline>
+               </geometry>
+               <properties>
+                  <length value="366.172218172658"/>
+                  <insertion-angle value="66.4622839030148"/>
+                  <parent-node value="24"/>
+               </properties>
+               <root ID="5">
+                  <geometry>
+                     <polyline>
+                        <point x="324" y="164"/>
+                        <point x="320" y="160.793433039312"/>
+                        <point x="315" y="157.39315428647"/>
+                        <point x="311" y="155.813412674218"/>
+                        <point x="306" y="155"/>
+                        <point x="302" y="154.206566960688"/>
+                        <point x="297" y="152.39315428647"/>
+                        <point x="293" y="151.39315428647"/>
+                        <point x="289" y="150.39315428647"/>
+                        <point x="284" y="148.813412674217"/>
+                        <point x="280" y="147.39315428647"/>
+                        <point x="275" y="146.186587325782"/>
+                        <point x="271" y="145"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="57.1808752878053"/>
+                     <insertion-angle value="42.1843668902717"/>
+                     <parent-node value="33"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="17.8885440826416"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="12"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="12"/>
+                        <sample value="12"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="10.1980390548706"/>
+                     </function>
+                  </functions>
+               </root>
+               <root ID="7">
+                  <geometry>
+                     <polyline>
+                        <point x="230.666666666667" y="202.333333333333"/>
+                        <point x="232.60684571353" y="207"/>
+                        <point x="233" y="211"/>
+                        <point x="230.39315428647" y="216"/>
+                        <point x="227.60684571353" y="220"/>
+                        <point x="224.60684571353" y="224"/>
+                        <point x="221.39315428647" y="228"/>
+                        <point x="217.186587325782" y="233"/>
+                        <point x="214.39315428647" y="237"/>
+                        <point x="211" y="241"/>
+                        <point x="207" y="244.39315428647"/>
+                        <point x="202" y="247.393154286471"/>
+                        <point x="198" y="249.60684571353"/>
+                        <point x="194" y="250"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="66.2190971349712"/>
+                     <insertion-angle value="65.743509921815"/>
+                     <parent-node value="56"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="14.4222049713135"/>
+                        <sample value="12.1655254364014"/>
+                        <sample value="12"/>
+                        <sample value="10"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="12.806248664856"/>
+                        <sample value="11.3137083053589"/>
+                        <sample value="11.3137083053589"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="11.3137083053589"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="10.7703294754028"/>
+                     </function>
+                  </functions>
+               </root>
+               <functions>
+                  <function domain="polyline" name="diameter">
+                     <sample value="18.8679618835449"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.1980390548706"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="13.416407585144"/>
+                     <sample value="13.416407585144"/>
+                     <sample value="16"/>
+                     <sample value="17.8885440826416"/>
+                     <sample value="17.8885440826416"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.1980390548706"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12.806248664856"/>
+                     <sample value="14.4222049713135"/>
+                     <sample value="14.4222049713135"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                  </function>
+               </functions>
+            </root>
+            <root ID="4">
+               <geometry>
+                  <polyline>
+                     <point x="563" y="303.75"/>
+                     <point x="558" y="304"/>
+                     <point x="554" y="304.186587325782"/>
+                     <point x="550" y="308"/>
+                     <point x="546" y="312"/>
+                     <point x="542" y="316"/>
+                     <point x="538" y="319.39315428647"/>
+                     <point x="534" y="322"/>
+                     <point x="530" y="324.39315428647"/>
+                     <point x="525" y="328"/>
+                     <point x="521" y="330.793433039312"/>
+                     <point x="517" y="333.39315428647"/>
+                     <point x="513" y="335.186587325782"/>
+                     <point x="509" y="336.60684571353"/>
+                     <point x="504" y="337.813412674217"/>
+                     <point x="500" y="338.813412674217"/>
+                     <point x="496" y="339.60684571353"/>
+                     <point x="492" y="340"/>
+                     <point x="488" y="340"/>
+                     <point x="484" y="339"/>
+                     <point x="479" y="337.60684571353"/>
+                     <point x="475" y="336.60684571353"/>
+                     <point x="471" y="336"/>
+                     <point x="471" y="336"/>
+                     <point x="466" y="339.206566960688"/>
+                     <point x="462" y="341.206566960688"/>
+                     <point x="457" y="342"/>
+                     <point x="453" y="342"/>
+                     <point x="448" y="342"/>
+                     <point x="443" y="342"/>
+                     <point x="439" y="342"/>
+                     <point x="434" y="342"/>
+                     <point x="430" y="342"/>
+                     <point x="425" y="342"/>
+                  </polyline>
+               </geometry>
+               <properties>
+                  <length value="151.646619253556"/>
+                  <insertion-angle value="62.2055629584461"/>
+                  <parent-node value="75"/>
+               </properties>
+               <root ID="10">
+                  <geometry>
+                     <polyline>
+                        <point x="471" y="336"/>
+                        <point x="466" y="331.39315428647"/>
+                        <point x="460" y="328.186587325782"/>
+                        <point x="454" y="328"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="19.780929857895"/>
+                     <insertion-angle value="34.4121501862917"/>
+                     <parent-node value="23"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="18.1107711791992"/>
+                        <sample value="11.3137083053589"/>
+                        <sample value="12"/>
+                        <sample value="10.7703294754028"/>
+                     </function>
+                  </functions>
+               </root>
+               <functions>
+                  <function domain="polyline" name="diameter">
+                     <sample value="21.2602920532227"/>
+                     <sample value="15.2315464019775"/>
+                     <sample value="12.806248664856"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="12.1655254364014"/>
+                     <sample value="13.416407585144"/>
+                     <sample value="17.8885440826416"/>
+                     <sample value="19.6977157592773"/>
+                     <sample value="18.1107711791992"/>
+                     <sample value="18.1107711791992"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10"/>
+                  </function>
+               </functions>
+            </root>
+            <root ID="3">
+               <geometry>
+                  <polyline>
+                     <point x="500" y="236"/>
+                     <point x="504" y="232.39315428647"/>
+                     <point x="508" y="230.206566960688"/>
+                     <point x="513" y="228.186587325782"/>
+                     <point x="517" y="228"/>
+                     <point x="521" y="228"/>
+                     <point x="525" y="228"/>
+                     <point x="530" y="228"/>
+                     <point x="534" y="228"/>
+                     <point x="538" y="228"/>
+                     <point x="542" y="228"/>
+                     <point x="547" y="228"/>
+                     <point x="551" y="228"/>
+                     <point x="555" y="228"/>
+                     <point x="559" y="228"/>
+                     <point x="563" y="228"/>
+                     <point x="568" y="228"/>
+                     <point x="572" y="228"/>
+                     <point x="576" y="228"/>
+                     <point x="580" y="228"/>
+                     <point x="585" y="229"/>
+                     <point x="589" y="229"/>
+                     <point x="593" y="229.813412674217"/>
+                     <point x="597" y="230"/>
+                     <point x="602" y="228.793433039312"/>
+                     <point x="606" y="228"/>
+                     <point x="610.666666666667" y="228.333333333333"/>
+                     <point x="610.666666666667" y="228.333333333333"/>
+                     <point x="615" y="232.60684571353"/>
+                     <point x="619" y="235.39315428647"/>
+                     <point x="624" y="238"/>
+                     <point x="628" y="239.39315428647"/>
+                     <point x="632" y="241.206566960688"/>
+                     <point x="636" y="242.793433039312"/>
+                     <point x="641" y="244.793433039312"/>
+                     <point x="645" y="246.39315428647"/>
+                     <point x="649" y="248.206566960688"/>
+                     <point x="653" y="250.60684571353"/>
+                     <point x="657" y="253.186587325782"/>
+                     <point x="662" y="256.60684571353"/>
+                     <point x="666" y="259.206566960688"/>
+                     <point x="670" y="261.60684571353"/>
+                     <point x="674" y="264"/>
+                     <point x="679" y="267.60684571353"/>
+                     <point x="683" y="271"/>
+                     <point x="687" y="275"/>
+                     <point x="687" y="275"/>
+                     <point x="691" y="275"/>
+                     <point x="696" y="277"/>
+                     <point x="700" y="279.60684571353"/>
+                     <point x="704" y="281.60684571353"/>
+                     <point x="708" y="282.813412674217"/>
+                     <point x="713" y="283"/>
+                     <point x="717" y="283"/>
+                     <point x="721" y="283"/>
+                     <point x="725" y="282.60684571353"/>
+                     <point x="730" y="280.813412674217"/>
+                     <point x="734" y="278"/>
+                  </polyline>
+               </geometry>
+               <properties>
+                  <length value="254.18776457789"/>
+                  <insertion-angle value="57.1086062004132"/>
+                  <parent-node value="57"/>
+               </properties>
+               <root ID="8">
+                  <geometry>
+                     <polyline>
+                        <point x="610.666666666667" y="228.333333333333"/>
+                        <point x="616" y="224.793433039312"/>
+                        <point x="621" y="223"/>
+                        <point x="626" y="223"/>
+                        <point x="630" y="222.39315428647"/>
+                        <point x="635" y="222"/>
+                        <point x="640" y="222"/>
+                        <point x="645" y="222"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="35.8975731850718"/>
+                     <insertion-angle value="38.375222659127"/>
+                     <parent-node value="27"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="18.4390888214111"/>
+                        <sample value="12.806248664856"/>
+                        <sample value="14"/>
+                        <sample value="14"/>
+                        <sample value="13.416407585144"/>
+                        <sample value="12"/>
+                        <sample value="12"/>
+                        <sample value="10.7703294754028"/>
+                     </function>
+                  </functions>
+               </root>
+               <root ID="11">
+                  <geometry>
+                     <polyline>
+                        <point x="687" y="275"/>
+                        <point x="684.579741612253" y="280"/>
+                        <point x="686.206566960688" y="285"/>
+                        <point x="689" y="289"/>
+                        <point x="692.39315428647" y="294"/>
+                        <point x="695" y="299"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="27.6291651814533"/>
+                     <insertion-angle value="59.0362434679265"/>
+                     <parent-node value="46"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="14.4222049713135"/>
+                        <sample value="12.1655254364014"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="11.6619033813477"/>
+                        <sample value="10"/>
+                        <sample value="8.9442720413208"/>
+                     </function>
+                  </functions>
+               </root>
+               <functions>
+                  <function domain="polyline" name="diameter">
+                     <sample value="21.2602920532227"/>
+                     <sample value="18.4390888214111"/>
+                     <sample value="12.806248664856"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="14.1421356201172"/>
+                     <sample value="18.4390888214111"/>
+                     <sample value="18.4390888214111"/>
+                     <sample value="18.4390888214111"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.1980390548706"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.1980390548706"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10"/>
+                     <sample value="14.1421356201172"/>
+                     <sample value="14.4222049713135"/>
+                     <sample value="14.4222049713135"/>
+                     <sample value="12"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.3137083053589"/>
+                  </function>
+               </functions>
+            </root>
+            <root ID="6">
+               <geometry>
+                  <polyline>
+                     <point x="534.333333333333" y="445.666666666667"/>
+                     <point x="539" y="446"/>
+                     <point x="544" y="447.186587325782"/>
+                     <point x="548" y="450.60684571353"/>
+                     <point x="553" y="454.60684571353"/>
+                     <point x="557" y="457.39315428647"/>
+                     <point x="561" y="460"/>
+                     <point x="566" y="463.206566960688"/>
+                     <point x="570" y="465.813412674217"/>
+                     <point x="574" y="468.813412674217"/>
+                     <point x="579" y="472.206566960688"/>
+                     <point x="583" y="474.206566960688"/>
+                     <point x="588" y="477.206566960688"/>
+                     <point x="592" y="479"/>
+                     <point x="596" y="480.60684571353"/>
+                     <point x="601" y="481"/>
+                     <point x="606" y="479.75"/>
+                     <point x="606" y="479.75"/>
+                     <point x="612" y="482.793433039312"/>
+                     <point x="616" y="484.813412674217"/>
+                     <point x="621" y="485.813412674217"/>
+                     <point x="626" y="486"/>
+                     <point x="630" y="486"/>
+                     <point x="635" y="486"/>
+                     <point x="640" y="486"/>
+                     <point x="644" y="486"/>
+                     <point x="649" y="486"/>
+                  </polyline>
+               </geometry>
+               <properties>
+                  <length value="126.63281496816"/>
+                  <insertion-angle value="88.5624563332814"/>
+                  <parent-node value="110"/>
+               </properties>
+               <root ID="13">
+                  <geometry>
+                     <polyline>
+                        <point x="606" y="479.75"/>
+                        <point x="612" y="473"/>
+                        <point x="619" y="471"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="16.8018293679997"/>
+                     <insertion-angle value="43.5314200445705"/>
+                     <parent-node value="17"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="16.4924221038818"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="11.6619033813477"/>
+                     </function>
+                  </functions>
+               </root>
+               <functions>
+                  <function domain="polyline" name="diameter">
+                     <sample value="19.7989902496338"/>
+                     <sample value="14.5602197647095"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="10"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="11.3137083053589"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10"/>
+                     <sample value="14.1421356201172"/>
+                     <sample value="16.4924221038818"/>
+                     <sample value="16.4924221038818"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                  </function>
+               </functions>
+            </root>
+            <root ID="9">
+               <geometry>
+                  <polyline>
+                     <point x="481.666666666667" y="530.333333333333"/>
+                     <point x="477" y="530"/>
+                     <point x="473" y="530"/>
+                     <point x="468" y="530"/>
+                     <point x="464" y="529.186587325782"/>
+                     <point x="460" y="529"/>
+                     <point x="456" y="529.39315428647"/>
+                     <point x="451" y="530"/>
+                     <point x="447" y="530.813412674217"/>
+                     <point x="443" y="531"/>
+                     <point x="439" y="531"/>
+                     <point x="435" y="531"/>
+                     <point x="430" y="532.206566960688"/>
+                     <point x="426" y="534.60684571353"/>
+                     <point x="421" y="536.25"/>
+                     <point x="421" y="536.25"/>
+                     <point x="416" y="534.793433039312"/>
+                     <point x="411" y="534.39315428647"/>
+                     <point x="407" y="535"/>
+                     <point x="403" y="535.60684571353"/>
+                     <point x="398" y="536"/>
+                     <point x="394" y="536.60684571353"/>
+                     <point x="389" y="537.186587325783"/>
+                     <point x="385" y="538"/>
+                     <point x="381" y="538.606845713529"/>
+                     <point x="376" y="539.60684571353"/>
+                     <point x="372" y="540"/>
+                     <point x="368" y="540.186587325783"/>
+                     <point x="363" y="541"/>
+                     <point x="359" y="542"/>
+                  </polyline>
+               </geometry>
+               <properties>
+                  <length value="125.382484292776"/>
+                  <insertion-angle value="65.2085911091405"/>
+                  <parent-node value="131"/>
+               </properties>
+               <root ID="14">
+                  <geometry>
+                     <polyline>
+                        <point x="421" y="536.25"/>
+                        <point x="419" y="543"/>
+                        <point x="414.813412674217" y="549"/>
+                        <point x="411" y="555"/>
+                     </polyline>
+                  </geometry>
+                  <properties>
+                     <length value="21.7541642113302"/>
+                     <insertion-angle value="59.0100822954539"/>
+                     <parent-node value="15"/>
+                  </properties>
+                  <root/>
+                  <functions>
+                     <function domain="polyline" name="diameter">
+                        <sample value="16.1245155334473"/>
+                        <sample value="10.7703294754028"/>
+                        <sample value="11.3137083053589"/>
+                        <sample value="10.1980390548706"/>
+                     </function>
+                  </functions>
+               </root>
+               <functions>
+                  <function domain="polyline" name="diameter">
+                     <sample value="33.9411239624023"/>
+                     <sample value="26.907247543335"/>
+                     <sample value="21.5406589508057"/>
+                     <sample value="12.806248664856"/>
+                     <sample value="10.1980390548706"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="12"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="11.6619033813477"/>
+                     <sample value="12.806248664856"/>
+                     <sample value="16.1245155334473"/>
+                     <sample value="16.1245155334473"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="10.7703294754028"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="10"/>
+                  </function>
+               </functions>
+            </root>
+            <root ID="12">
+               <geometry>
+                  <polyline>
+                     <point x="473.666666666667" y="628.333333333333"/>
+                     <point x="479" y="625.206566960688"/>
+                     <point x="483" y="623.39315428647"/>
+                     <point x="488" y="623"/>
+                     <point x="492" y="623"/>
+                     <point x="497" y="623"/>
+                     <point x="501" y="623"/>
+                     <point x="506" y="623"/>
+                     <point x="510" y="623"/>
+                     <point x="515" y="623"/>
+                     <point x="519" y="622"/>
+                  </polyline>
+               </geometry>
+               <properties>
+                  <length value="46.8287387514251"/>
+                  <insertion-angle value="49.6217130799099"/>
+                  <parent-node value="156"/>
+               </properties>
+               <root/>
+               <functions>
+                  <function domain="polyline" name="diameter">
+                     <sample value="18.4390888214111"/>
+                     <sample value="14.4222049713135"/>
+                     <sample value="12.6491107940674"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="12"/>
+                     <sample value="11.6619033813477"/>
+                  </function>
+               </functions>
+            </root>
+            <functions>
+               <function domain="polyline" name="diameter">
+                  <sample value="14.1421356201172"/>
+                  <sample value="28"/>
+                  <sample value="28"/>
+                  <sample value="28"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="23.4093990325928"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="20.8806133270264"/>
+                  <sample value="22.8035087585449"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="21.5406589508057"/>
+                  <sample value="18.4390888214111"/>
+                  <sample value="20"/>
+                  <sample value="19.6977157592773"/>
+                  <sample value="20.0997505187988"/>
+                  <sample value="20"/>
+                  <sample value="18.9736652374268"/>
+                  <sample value="18.8679618835449"/>
+                  <sample value="18.8679618835449"/>
+                  <sample value="22.0907211303711"/>
+                  <sample value="23.3238067626953"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="22.8035087585449"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="22"/>
+                  <sample value="22"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="24.4131107330322"/>
+                  <sample value="26"/>
+                  <sample value="28"/>
+                  <sample value="28"/>
+                  <sample value="29.1204395294189"/>
+                  <sample value="28"/>
+                  <sample value="27.8567771911621"/>
+                  <sample value="25.2982215881348"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="23.3238067626953"/>
+                  <sample value="21.6333084106445"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="21.2602920532227"/>
+                  <sample value="20.5912609100342"/>
+                  <sample value="20"/>
+                  <sample value="19.7989902496338"/>
+                  <sample value="20"/>
+                  <sample value="21.2602920532227"/>
+                  <sample value="21.2602920532227"/>
+                  <sample value="21.6333084106445"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="22.6274166107178"/>
+                  <sample value="22.6274166107178"/>
+                  <sample value="22.6274166107178"/>
+                  <sample value="22.6274166107178"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="21.2602920532227"/>
+                  <sample value="20.5912609100342"/>
+                  <sample value="21.6333084106445"/>
+                  <sample value="26.0768089294434"/>
+                  <sample value="25.4558448791504"/>
+                  <sample value="25.4558448791504"/>
+                  <sample value="26"/>
+                  <sample value="30"/>
+                  <sample value="21.2602920532227"/>
+                  <sample value="21.2602920532227"/>
+                  <sample value="22.8035087585449"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="24"/>
+                  <sample value="22.8035087585449"/>
+                  <sample value="22.0907211303711"/>
+                  <sample value="22.8035087585449"/>
+                  <sample value="21.5406589508057"/>
+                  <sample value="22.0907211303711"/>
+                  <sample value="22"/>
+                  <sample value="20.8806133270264"/>
+                  <sample value="22"/>
+                  <sample value="21.5406589508057"/>
+                  <sample value="20.8806133270264"/>
+                  <sample value="20.8806133270264"/>
+                  <sample value="19.6977157592773"/>
+                  <sample value="18.8679618835449"/>
+                  <sample value="18.4390888214111"/>
+                  <sample value="16.1245155334473"/>
+                  <sample value="15.2315464019775"/>
+                  <sample value="17.0880069732666"/>
+                  <sample value="16.4924221038818"/>
+                  <sample value="16.9705619812012"/>
+                  <sample value="18.9736652374268"/>
+                  <sample value="18.8679618835449"/>
+                  <sample value="20.0997505187988"/>
+                  <sample value="20.5912609100342"/>
+                  <sample value="22.0907211303711"/>
+                  <sample value="20.8806133270264"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="23.3238067626953"/>
+                  <sample value="19.7989902496338"/>
+                  <sample value="19.7989902496338"/>
+                  <sample value="20.5912609100342"/>
+                  <sample value="20.8806133270264"/>
+                  <sample value="20.5912609100342"/>
+                  <sample value="21.6333084106445"/>
+                  <sample value="21.5406589508057"/>
+                  <sample value="22.6274166107178"/>
+                  <sample value="23.3238067626953"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="26.0768089294434"/>
+                  <sample value="25.059928894043"/>
+                  <sample value="25.6124973297119"/>
+                  <sample value="26.907247543335"/>
+                  <sample value="27.7848873138428"/>
+                  <sample value="28.2842712402344"/>
+                  <sample value="30.5286750793457"/>
+                  <sample value="32.8024406433105"/>
+                  <sample value="34.4093017578125"/>
+                  <sample value="35.3836135864258"/>
+                  <sample value="33.9411239624023"/>
+                  <sample value="33.9411239624023"/>
+                  <sample value="31.1126976013184"/>
+                  <sample value="31.30495262146"/>
+                  <sample value="28.4253406524658"/>
+                  <sample value="29.5296459197998"/>
+                  <sample value="26.907247543335"/>
+                  <sample value="26"/>
+                  <sample value="26"/>
+                  <sample value="25.4558448791504"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="23.3238067626953"/>
+                  <sample value="22.3606796264648"/>
+                  <sample value="20.5912609100342"/>
+                  <sample value="20.3960781097412"/>
+                  <sample value="19.6977157592773"/>
+                  <sample value="20.3960781097412"/>
+                  <sample value="20"/>
+                  <sample value="20"/>
+                  <sample value="20"/>
+                  <sample value="19.6977157592773"/>
+                  <sample value="18.8679618835449"/>
+                  <sample value="16.9705619812012"/>
+                  <sample value="15.6204996109009"/>
+                  <sample value="16.1245155334473"/>
+                  <sample value="18.4390888214111"/>
+                  <sample value="18.4390888214111"/>
+                  <sample value="15.2315464019775"/>
+                  <sample value="12.806248664856"/>
+                  <sample value="12.806248664856"/>
+                  <sample value="12.806248664856"/>
+                  <sample value="12.806248664856"/>
+                  <sample value="14.1421356201172"/>
+                  <sample value="12.806248664856"/>
+                  <sample value="11.6619033813477"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.1655254364014"/>
+                  <sample value="11.6619033813477"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="11.6619033813477"/>
+                  <sample value="12.1655254364014"/>
+                  <sample value="12.1655254364014"/>
+                  <sample value="12.1655254364014"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="14.1421356201172"/>
+                  <sample value="14.5602197647095"/>
+                  <sample value="14.1421356201172"/>
+                  <sample value="14"/>
+                  <sample value="13.416407585144"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.1655254364014"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="12.6491107940674"/>
+                  <sample value="10.7703294754028"/>
+               </function>
+            </functions>
+         </root>
+      </plant>
+   </scene>
+</rsml>
